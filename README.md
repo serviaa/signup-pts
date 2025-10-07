@@ -164,7 +164,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/serviaa/signup-app.git
+git remote add origin https://github.com/serviaa/signup-pts.git
 git push -u origin main
 ```
 
