@@ -78,7 +78,7 @@ signup-app/
 
 Buat file `.env` di folder utama proyek dan isi dengan URL database dari Railway. Contoh :
 ```
-DATABASE_URL=postgresql://postgres:123456@containers.railway.app:6555/railway
+DATABASE_URL=DATABASE_URL=postgresql://postgres:*****@containers.railway.app:6555/railway
 ```
 
 ---
